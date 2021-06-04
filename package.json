@@ -1,0 +1,12 @@
+{
+  "name": "docker_test",
+  "version": "0.0.1",
+  "description": "a fun play with docker and express",
+  "main": "server.js",
+  "repository": "git@github.com:niccybee/docker-test.git",
+  "author": "nbweb",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
